@@ -1,10 +1,17 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset=utf-8">
+<title>html3</title>
+</head>
 
+
+<body>
 @charset "utf-8";
 <title>cssproject</title>
 <style>
 
-<body>
 
 
 header{
@@ -45,3 +52,14 @@ footer{
 }
 
 
+
+	
+
+
+<a href="index.html">Home></a>
+
+<a href="files/buck.jpg"download><img src="files/buck.jpg"></a>
+<img src="files/blogotx.jpg" alt="TPWD Logo" id="logo">
+
+</body>
+</html>
