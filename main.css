@@ -11,7 +11,7 @@ body{ background-color: rgba(185,230,244,1.00);
 }
 
 #container{
-	width: 1020;
+	width: 1020px;
 	margin:0 auto;
 
 
@@ -20,29 +20,59 @@ body{ background-color: rgba(185,230,244,1.00);
 
 
 
-header{
+#header{
 			background-color:dodgerblue; 
-			width:100; 
-			height:150;
+			width:100px; 
+			height:150px;
 		}
-nav{
+#nav{
 			background-color:pink; 
 			width:100; 
 			height:35;
 			margin-top:10px;
 		}
+
+
+
+
+
+#container{
+	width:1350px;
+	margin:0 auto;
+}
+
+
+
+
 .garner{
 	width:33%;
 	background-color: rgba(237,224,196,.5);
 	height:400px;
 	float:left;
+
 }
+
+	#art1{
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
 #enchantedrock{
 	width:34%;
 	background-color:rgba(241,145,146,1.00);
 	height:400px;
-	float:center;
+	float:left;
 }
+
+#art2{
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+
+}
+
+
 #westtexas{
 	width:330%;
 	background-color:rgba(210,241,163,1.00);
@@ -50,17 +80,15 @@ nav{
 	float:left;
 	margin-right: 15;
 	border:thin;
-
 }
 
-#art1{
+#art3{
 	padding-top: 5px;
 	padding-right: 10px;
 	padding-left: 10px;
 
-
-
 }
+
 
 
 
