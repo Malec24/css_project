@@ -58,6 +58,13 @@ body{ background-color: rgba(185,230,244,1.00);
 	padding-left: 10px;
 }
 
+#container{
+		width:1350px;
+	margin:0 auto;
+
+}
+
+
 #enchantedrock{
 	width:34%;
 	background-color:rgba(241,145,146,1.00);
