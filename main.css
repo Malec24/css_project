@@ -1,115 +1,136 @@
-
 @charset "utf-8";
 /* CSS Document */
 
 *{box-sizing:border-box;}
 
-body{ background-color: rgba(185,230,244,1.00); 
 
-
-
+body{ background-color: seashell;
 }
 
-#container{
-	width: 1020px;
-	margin:0 auto;
+#container	{width: 1020px;
+ 				margin: 0; auto;
+				}
 
 
-
+header{ 
+	text-align: center;
+	background-color: saddlebrown;
+	color: darkkhaki;
+			background-repeat: no-repeat, repeat;
+				width:100% ;
+				height:100px ;
+				padding-top: 0px;
 }
 
-
-
-#header{
-			background-color:dodgerblue; 
-			width:100px; 
-			height:150px;
-		}
-#nav{
-			background-color:pink; 
-			width:100px; 
-			height:35px;
-			margin-top:10px;
-		}
-
-
-
-
-
-#container{
-	width:1350px;
-	margin:0 auto;
-}
-
+nav{
+			background-color:saddlebrown;
+				width:100%;
+				height:35px ;
+				margin-top: 14px;
+				padding: 0px;
+				}
 
 
 
 .garner{
-	width:33%;
-	background-color: rgba(237,224,196,.5);
-	height:400px;
-	float:left;
+	background-color:saddlebrown;
+	color: darkkhaki;
+				width: 330px;
+				height:400px;
+				float: left;
+				padding: 10 15;
+				margin-right: 15px;
+				}
 
-}
+	#art1{ 
+	background-color:saddlebrown;
+	color: darkkhaki;
+				width: 330px;
+				height:400px;
+ 				float: left;
+				margin-left: 15px;
+				padding: 10 15;
 
-	#art1{
-	padding-top: 5px;
-	padding-right: 10px;
-	padding-left: 10px;
-}
-
-#container{
-		width:1350px;
-	margin:0 auto;
-
-}
+			}
 
 
-#enchantedrock{
-	width:34%;
-	background-color:rgba(241,145,146,1.00);
-	height:400px;
-	float:left;
-}
+.enchantedrock{
+	background-color:saddlebrown;
+	color: darkkhaki;
+				width: 330px;
+				height:400px;
+				float: left;
+				padding: 10 15;
+				margin-right: 15px;
+				}
 
 #art2{
-	padding-top: 5px;
-	padding-right: 10px;
-	padding-left: 10px;
+	background-color:saddlebrown;
+	color: darkkhaki;
+				width: 330px;
+				height:400px;
+ 				float: left;
+				margin-left: 15px;
+				padding: 10 15;
+				}
 
-}
 
 
 
-#container{
-		width:1350px;
-	margin:0 auto;
+.westtexas{
+	background-color:saddlebrown;
+	color: darkkhaki;
+				width: 330px;
+				height:400px;
+				float: left;
+				padding: 10 15;
+				margin-right: 15px;
+				}
 
-}
 
-#westtexas{
-	width:330%;
-	background-color:rgba(210,241,163,1.00);
-	height:400px;
-	float:left;
-	margin-right: 15px;
-	border:thin;
-}
 
 #art3{
-	padding-top: 5px;
-	padding-right: 10px;
-	padding-left: 10px;
+	background-color:saddlebrown;
+	color: darkkhaki;
+				width: 330px;
+				height:400px;
+ 				float: left;
+				margin-left: 15px;
+				padding: 10 15;
+				}
 
-}
 
 
 
 
-footer{
+
+footer {	
 	
-			background-color:blue; 
-			width:100%; 
-			height:35px;
+		text-align: center;
+	width: 100%;
+	height:300px;
+	background-color: saddlebrown;
 	clear:both;
 }
+
+h3	{color:darkkhaki;
+				font-size: 40pt;
+				text-align: center;
+				
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
